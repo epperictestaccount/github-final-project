@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <epperictestaccount>
+   # epperictestaccount
 
    # Input:
    # p, principal amount
